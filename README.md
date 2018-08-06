@@ -3,11 +3,11 @@ protobufjs github地址:
 https://github.com/dcodeIO/protobuf.js#installation
 
 安装：
-npm install protobufjs -g //安装全局protobufjs
-npm install uglify-js -g   //安装uglify  压缩js
+npm install protobufjs -g //安装全局protobufjs <br>
+npm install uglify-js -g   //安装uglify  压缩js<br>
 
 
-.proto文件编写
+.proto文件编写<br>
 message userUtil {
 required int32 user_id=1;
 optional string user_name=2;
